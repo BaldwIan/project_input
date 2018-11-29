@@ -1,0 +1,1 @@
+global.bosskilled=1

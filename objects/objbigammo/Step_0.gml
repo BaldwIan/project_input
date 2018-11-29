@@ -1,0 +1,1 @@
+if (!place_meeting(x, y + grav, block_obj)) y += grav;

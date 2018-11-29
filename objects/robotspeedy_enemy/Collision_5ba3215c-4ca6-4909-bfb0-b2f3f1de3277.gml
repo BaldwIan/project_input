@@ -1,0 +1,1 @@
+plyr_obj.hp -= .2

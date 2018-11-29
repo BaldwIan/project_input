@@ -1,0 +1,13 @@
+hspd = 0;
+vspd = 0;
+alarm[1] = room_speed * 0.1;
+alert = false;
+moving = -3;
+cooldown_jump = room_speed
+grav = 5;
+maxHp = 5;
+hp = maxHp;
+hpBarScale = 0.25;
+hpDown = 70;
+aggroDistance = 300;
+drop=random(100)

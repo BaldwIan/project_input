@@ -1,0 +1,1 @@
+global.firecount = 0;
